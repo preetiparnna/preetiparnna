@@ -1,5 +1,5 @@
 #preetiparnna
-<h1 align="center">Hi 👋, I'm Preeti Parnna IBM Certified Data Analyst and Scientist</h1>
+<h1 align="center">Hi 👋, I'm Preeti Parnna [IBM Certified Data Analyst and Scientist]</h1>
 <h3 align="center">Aspiring Data Scientist and Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiparnna&label=Profile%20views&color=0e75b6&style=flat" alt="preetiparnna" /> </p>
